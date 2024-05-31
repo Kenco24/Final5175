@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Final5175\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\final5175.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:final5175.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\services\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:services\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\data\\finalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:data\\finalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\migrations\\20240531171036_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:migrations\\20240531171036_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|c:\\users\\student\\desktop\\final5175\\migrations\\20240531165459_ init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C60629E-D108-468C-A335-10EFAF05BF54}|Final5175.csproj|solutionrelative:migrations\\20240531165459_ init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:24:54.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:49:41.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:55:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\CarRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:01:44.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:44:12.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Entities\\Client.cs",
+              "RelativeToolTip": "Data\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:43:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Final5175.http",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Final5175.http",
+              "RelativeDocumentMoniker": "Final5175.http",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Final5175.http",
+              "RelativeToolTip": "Final5175.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-31T16:54:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:50:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Services\\ClientService.cs",
+              "RelativeToolTip": "Services\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:43:30.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:57:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:50:42.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:30:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Services\\CarService.cs",
+              "RelativeToolTip": "Services\\Services\\CarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:00:11.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:44:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\DTOs\\CarDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\CarDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\DTOs\\CarDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\CarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:44:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\Entities\\Car.cs",
+              "RelativeToolTip": "Data\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:43:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Services\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Services\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:46:04.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240531171036_fix.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Migrations\\20240531171036_fix.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240531171036_fix.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Migrations\\20240531171036_fix.cs",
+              "RelativeToolTip": "Migrations\\20240531171036_fix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:10:36.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T16:54:05.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240531165459_ init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Migrations\\20240531165459_ init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240531165459_ init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Migrations\\20240531165459_ init.cs",
+              "RelativeToolTip": "Migrations\\20240531165459_ init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:54:59.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FinalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\FinalContext.cs",
+              "RelativeDocumentMoniker": "Data\\FinalContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final5175\\Data\\FinalContext.cs",
+              "RelativeToolTip": "Data\\FinalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:41:45.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
